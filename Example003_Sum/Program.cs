@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int numberA = 9;
+int numberB = 57;
+int result = numberA + numberB;
+Console.WriteLine(result);
